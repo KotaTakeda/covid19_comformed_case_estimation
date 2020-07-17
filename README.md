@@ -1,5 +1,4 @@
-# covid_report
-covid19 comformed case estimation
+# covid19 comformed case estimation
 
 COVID19に関する分析をまとめたものです．
 
