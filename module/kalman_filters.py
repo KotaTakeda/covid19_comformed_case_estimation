@@ -24,13 +24,13 @@ x: ndarray(dim)
 
 """
 class EnKalmanFilter:
-    def __init__(self, M, H, Q, R, y, x_0, P_0, dim_x=2, dim_y=1, m=10, dt=0.1):
+    def __init__(self, M, H, Q, R, y, x_0, P_0, dim_x=2, dim_y=1, N=10, dt=0.1):
         self.M = M
         self.H = H
         self.Q = Q
         self.R = R
         self.y = y
-        self.m = m
+        self.N = N
         self.dt = dt
         self.dim_x = dim_x # todo : x_0から計算
         self.dim_y = dim_y # todo : yから計算
@@ -39,13 +39,13 @@ class EnKalmanFilter:
         self.x = np.zeros(self.dim_x)
         self.x_log = []
 
-        self._initialize(x_0, P_0, m)
+        self._initialize(x_0, P_0, N)
 
   #　初期状態
-    def _initialize(self, x_0, P_0, m):
-        self.ensemble = np.zeros((self.m, self.dim_x))
-        e = multivariate_normal(self.mean, P_0, m)
-        for i in range(m):
+    def _initialize(self, x_0, P_0, N):
+        self.ensemble = np.zeros((self.N, self.dim_x))
+        e = multivariate_normal(self.mean, P_0, N)
+        for i in range(N):
             self.ensemble[i] = x_0 + e[i]
     
         self.x = np.mean(self.ensemble, axis=0)
@@ -64,13 +64,14 @@ class EnKalmanFilter:
 
     # 更新/解析
     def _update(self, y_obs):
-        m = self.m
+        N = self.N
         dim_y = self.dim_y
 
-        # アンサンブルで観測
-        ensemble_y = np.zeros((m, dim_y))
-        for i in range(m):
-            ensemble_y[i] = self.H(self.ensemble[i])
+        # アンサンブルで観測，ノイズのせる
+        e = multivariate_normal(self.mean_y, self.R, N)
+        ensemble_y = np.zeros((N, dim_y))
+        for i in range(N):
+            ensemble_y[i] = self.H(self.ensemble[i]) + e[i]
 
         y_mean = np.mean(ensemble_y, axis=0)
 
@@ -79,16 +80,15 @@ class EnKalmanFilter:
         dY = ensemble_y - y_mean
 
         # Pxy Pyy
-        P_xy = (dX.T@dY) / (m-1)
-        P_yy = (dY.T@dY) / (m-1) 
+        P_xy = (dX.T@dY) / (N-1)
+        P_yy = (dY.T@dY) / (N-1) 
 
         # Kalman gain 
         K = P_xy@np.linalg.inv(P_yy + self.R)
 
-        # アンサンブルで x(k) 更新、ノイズのせる
-        e = multivariate_normal(self.mean_y, self.R, m)
-        for i in range(m):
-            self.ensemble[i] += K@(y_obs + e[i] - ensemble_y[i])
+        # アンサンブルで x(k) 更新
+        for i in range(N):
+            self.ensemble[i] += K@(y_obs - ensemble_y[i])
 
         # 更新した値のアンサンブル平均　x を保存
         self.x = np.mean(self.ensemble, axis=0)
@@ -96,12 +96,12 @@ class EnKalmanFilter:
 
     # 予報/時間発展
     def _forecast(self, log=False):
-    # アンサンブルで x(k) 予測、ノイズをのせる
+    # アンサンブルで x(k) 予測
         for i, s in enumerate(self.ensemble):
             self.ensemble[i] = self.M(s, self.dt)
     
-        e = multivariate_normal(self.mean, self.Q, self.m)
-        self.ensemble += e
+        # e = multivariate_normal(self.mean, self.Q, self.N)
+        # self.ensemble += e
 
         self.x = np.mean(self.ensemble, axis=0)
 
