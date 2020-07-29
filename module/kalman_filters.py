@@ -114,4 +114,4 @@ class EnKalmanFilter:
     # 追加の推定(観測値なし)
     def additional_forecast(self, step):
         for _ in range(step):
-          self._forecast(log=True)
+            self._forecast(log=True)
