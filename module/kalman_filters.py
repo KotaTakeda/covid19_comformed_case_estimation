@@ -16,7 +16,7 @@ Q: ndarray(dim, dim)
 R: ndarray(dim, dim)
   観測の誤差共分散行列
 
-m: アンサンブルメンバーの数
+N: アンサンブルメンバーの数
 
 
 
@@ -29,6 +29,7 @@ class EnKalmanFilter:
         self.H = H
         self.Q = Q
         self.R = R
+        # self.A = A # 加法的誤差共分散膨張行列
         self.y = y
         self.N = N
         self.dt = dt
@@ -100,6 +101,8 @@ class EnKalmanFilter:
         for i, s in enumerate(self.ensemble):
             self.ensemble[i] = self.M(s, self.dt)
     
+        # 加法的誤差共分散膨張に対応
+        # e = multivariate_normal(self.mean, self.A, self.N)
         # e = multivariate_normal(self.mean, self.Q, self.N)
         # self.ensemble += e
 
