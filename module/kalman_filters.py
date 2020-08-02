@@ -5,7 +5,6 @@ from numpy.random import multivariate_normal
 """
 Parameters
 
-
 M: callable(x, dt)
   状態遷移関数
 
@@ -17,8 +16,6 @@ R: ndarray(dim, dim)
   観測の誤差共分散行列
 
 N: アンサンブルメンバーの数
-
-
 
 x: ndarray(dim)
 
