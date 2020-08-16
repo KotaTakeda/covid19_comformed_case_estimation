@@ -1,251 +1,0 @@
-"",Total,Total,,Total,,
-Reporting Country/,,,Total,,Transmission,Days since last
-Territory/Area  †,confirmed,confirmed,deaths,new,classification§,reported case
-"",‡ cases,new cases,,deaths,,
-Western Pacific Region,,,,,,
-China,84180,31,4642,0,Clusters of cases,0
-Republic of Korea,10653,18,232,2,Clusters of cases,0
-Japan,9795,628,154,6,Clusters of cases,0
-Australia,6533,65,67,4,Clusters of cases,0
-Philippines,5878,218,387,25,Clusters of cases,0
-Malaysia,5251,69,86,2,Clusters of cases,0
-Singapore,5050,623,11,1,Clusters of cases,0
-New Zealand,1094,8,11,0,Clusters of cases,0
-Viet Nam,268,0,0,0,Clusters of cases,1
-Brunei Darussalam,136,0,1,0,Sporadic cases,7
-Cambodia,122,0,0,0,Sporadic cases,6
-Mongolia,31,0,0,0,Sporadic cases,1
-Lao People's,19,0,0,0,Sporadic cases,5
-Democratic Republic,,,,,,
-Fiji,17,0,0,0,Sporadic cases,1
-Papua New Guinea,7,0,0,0,Sporadic cases,1
-Territories**,,,,,,
-Guam,135,0,5,0,Clusters of cases,3
-French Polynesia,55,0,0,0,Sporadic cases,4
-New Caledonia,18,0,0,0,Sporadic cases,15
-Northern Mariana,14,1,2,0,Pending,0
-Islands,,,,,,
-(Commonwealth of,,,,,,
-the),,,,,,
-European Region,,,,,,
-Spain,188068,5252,19478,348,Pending,0
-Italy,172434,3493,22747,575,Pending,0
-Germany,137439,3609,4110,242,Pending,0
-The United Kingdom,108696,5599,14576,847,Pending,0
-France,108163,385,18659,760,Pending,0
-Turkey,78546,4353,1769,126,Community,0
-"",,,,,transmission,
-Russian Federation,36793,4785,313,40,Clusters of cases,0
-Belgium,36138,1329,5163,306,Pending,0
-Netherlands,30449,1235,3459,144,Pending,0
-Switzerland,26997,346,1058,42,Community,0
-"",,,,,transmission,
-Portugal,19022,181,657,28,Pending,0
-Austria,14603,155,431,21,Pending,0
-Ireland,13980,709,530,44,Pending,0
-Sweden,13216,676,1400,67,Pending,0
-Israel,12855,264,148,8,Pending,0
-Poland,8379,461,332,18,Pending,0
-Romania,8067,360,400,13,Pending,0
-Denmark,7073,194,336,15,Pending,0
-Norway,6791,0,136,0,Pending,1
-Czechia,6549,116,173,4,Pending,0
-Serbia,5690,372,110,7,Pending,0
-Ukraine,5106,444,133,8,"Communitytransmission",0
-Belarus,4779,575,43,3,Clusters of cases,0
-Finland,3489,120,82,7,Pending,0
-Luxembourg,3480,36,72,3,Pending,0
-Republic of Moldova,2264,110,56,2,Pending,0
-Greece,2207,0,105,0,Pending,1
-Hungary,1834,71,172,16,Pending,0
-Croatia,1814,23,36,1,Pending,0
-Iceland,1754,15,8,0,Pending,0
-Kazakhstan,1546,66,17,1,Pending,0
-Estonia,1459,25,38,2,Pending,0
-Uzbekistan,1450,70,4,0,Clusters of cases,0
-Azerbaijan,1340,57,15,0,Clusters of cases,0
-Slovenia,1304,36,66,5,Pending,0
-Lithuania,1239,90,33,1,Pending,0
-"Bosnia andHerzegovina",1210,41,44,2,"Communitytransmission",0
-Armenia,1201,42,19,1,Clusters of cases,0
-North Macedonia,1117,36,49,3,Clusters of cases,0
-Slovakia,1049,72,9,1,Pending,0
-Bulgaria,846,46,41,3,Pending,0
-Cyprus,735,0,17,0,Pending,1
-Andorra,703,9,35,1,"Communitytransmission",0
-Latvia,682,7,5,0,Pending,0
-Albania,548,30,26,0,Clusters of cases,0
-Kyrgyzstan,506,17,5,0,Pending,0
-San Marino,426,0,38,0,"Communitytransmission",1
-Malta,422,10,3,0,Pending,0
-Georgia,385,15,3,0,Clusters of cases,0
-Montenegro,305,2,5,1,Clusters of cases,0
-Monaco,98,5,1,0,Sporadic cases,0
-Liechtenstein,81,0,1,0,Pending,3
-Holy See,8,0,0,0,Sporadic cases,9
-"",Territories**,,,,,
-Kosovo[1],480,31,12,1,"Communitytransmission",0
-Isle of Man,289,31,4,0,Pending,0
-Guernsey,234,6,9,1,Pending,0
-Jersey,223,4,10,3,Pending,0
-Faroe Islands,184,0,0,0,Pending,10
-Gibraltar,133,2,0,0,Pending,0
-Greenland,11,0,0,0,Pending,12
-"",South-East Asia Region,,,,,
-India,14378,991,480,43,Clusters of cases,0
-Indonesia,5923,407,520,24,"Communitytransmission",0
-Thailand,2733,33,47,0,Pending,0
-Bangladesh,1838,266,75,15,Pending,0
-Sri Lanka,244,6,7,0,Clusters of cases,0
-Myanmar,94,9,5,1,Clusters of cases,0
-Nepal,30,14,0,0,Sporadic cases,0
-Maldives,28,5,0,0,Sporadic cases,0
-Timor-Leste,18,0,0,0,Sporadic cases,1
-Bhutan,5,0,0,0,Sporadic cases,15
-"",Eastern Mediterranean Region,,,,,
-"Iran (Islamic Republicof)",79494,1499,4958,89,"Communitytransmission",0
-Pakistan,7481,456,143,8,Clusters of cases,0
-Saudi Arabia,7142,762,87,4,Clusters of cases,0
-United Arab Emirates,6302,477,37,2,Pending,0
-Qatar,4663,560,7,0,Pending,0
-Egypt,2844,171,205,9,Clusters of cases,0
-Morocco,2564,281,135,5,Clusters of cases,0
-Bahrain,1744,44,7,0,Clusters of cases,0
-Kuwait,1658,134,5,2,Clusters of cases,0
-Iraq,1482,48,81,1,Clusters of cases,0
-Oman,1180,111,6,1,Clusters of cases,0
-Afghanistan,908,63,30,0,Clusters of cases,0
-Tunisia,864,42,37,0,"Communitytransmission",0
-Djibouti,732,141,2,0,Clusters of cases,0
-Lebanon,668,5,21,0,Clusters of cases,0
-Jordan,407,5,7,0,Clusters of cases,0
-Somalia,116,36,5,0,Sporadic cases,0
-Libya,49,0,1,0,Clusters of cases,1
-Syrian Arab Republic,38,5,2,0,"Communitytransmission",0
-Sudan,33,1,6,1,Sporadic cases,0
-Yemen,1,0,0,0,Pending,7
-"",Territories**,,,,,
-"occupied Palestinianterritory",313,18,2,0,Clusters of cases,0
-"",Region of the Americas,,,,,
-"United States ofAmerica",665330,32549,30384,2163,"Communitytransmission",0
-Canada,30659,1775,1250,202,"Communitytransmission",0
-Brazil,30425,2105,1924,188,"Communitytransmission",0
-Peru,13489,2014,300,46,"Communitytransmission",0
-Chile,9252,445,116,11,"Communitytransmission",0
-Ecuador,8450,225,421,18,"Communitytransmission",0
-Mexico,6297,450,486,37,"Communitytransmission",0
-Dominican Republic,4126,371,200,4,"Communitytransmission",0
-Panama,4016,265,109,6,"Communitytransmission",0
-Colombia,3233,128,144,13,"Communitytransmission",0
-Argentina,2694,96,122,7,"Communitytransmission",0
-Cuba,923,61,31,4,Clusters of cases,0
-Costa Rica,642,16,4,0,Clusters of cases,0
-Uruguay,502,9,9,0,Clusters of cases,0
-"Bolivia (PlurinationalState of)",465,24,31,2,Clusters of cases,0
-Honduras,442,16,41,6,Clusters of cases,0
-Guatemala,214,18,7,2,Clusters of cases,0
-"Venezuela (BolivarianRepublic of)",204,7,9,0,Clusters of cases,0
-Paraguay,199,25,8,0,"Communitytransmission",0
-El Salvador,177,13,7,1,Clusters of cases,0
-Jamaica,143,18,5,0,Clusters of cases,0
-Trinidad and Tobago,114,0,8,0,Sporadic cases,2
-Barbados,75,0,5,0,Clusters of cases,1
-Guyana,57,2,6,0,Clusters of cases,0
-Bahamas,54,1,9,1,Clusters of cases,0
-Haiti,43,2,3,0,Clusters of cases,0
-Antigua and Barbuda,23,0,2,0,Clusters of cases,4
-Belize,18,0,2,0,Sporadic cases,3
-Dominica,16,0,0,0,Clusters of cases,7
-Saint Lucia,15,0,0,0,Sporadic cases,6
-Grenada,14,0,0,0,Clusters of cases,6
-Saint Kitts and Nevis,14,0,0,0,Sporadic cases,2
-"Saint Vincent and theGrenadines",12,0,0,0,Sporadic cases,7
-Suriname,10,0,1,0,Sporadic cases,14
-Nicaragua,9,0,1,0,Pending,5
-"",Territories**,,,,,
-Puerto Rico,1068,25,58,2,Clusters of cases,0
-Martinique,159,0,8,0,Clusters of cases,1
-Guadeloupe,145,0,8,0,Clusters of cases,3
-Aruba,96,1,2,0,Clusters of cases,0
-French Guiana,96,0,0,0,Clusters of cases,1
-Bermuda,83,2,5,0,Clusters of cases,0
-Cayman Islands,61,1,1,0,Clusters of cases,0
-Sint Maarten,57,0,9,0,Clusters of cases,1
-"United States VirginIslands",51,0,2,1,Clusters of cases,7
-Saint Martin,35,0,2,0,Sporadic cases,3
-Curaçao,14,0,1,0,Sporadic cases,9
-"Falkland Islands(Malvinas)",11,0,0,0,Clusters of cases,3
-Montserrat,11,0,0,0,Sporadic cases,4
-"Turks and CaicosIslands",11,0,1,0,Sporadic cases,1
-Saint Barthélemy,6,0,0,0,Sporadic cases,18
-"Bonaire, Sint Eustatiusand Saba",5,1,0,0,Sporadic cases,0
-Anguilla,3,0,0,0,Sporadic cases,14
-British Virgin Islands,3,0,0,0,Sporadic cases,17
-"Saint Pierre andMiquelon",1,0,0,0,Sporadic cases,10
-"",African Region,,,,,
-South Africa,2783,178,50,2,"Communitytransmission",0
-Algeria,2418,150,364,16,"Communitytransmission",0
-Cameroon,1016,161,21,4,Clusters of cases,0
-Côte d’Ivoire,742,54,6,0,Clusters of cases,0
-Ghana,641,0,8,0,Clusters of cases,1
-Niger,627,18,18,3,Clusters of cases,0
-Burkina Faso,547,4,32,0,Clusters of cases,0
-Guinea,438,0,1,0,Clusters of cases,1
-Nigeria,373,0,11,0,Clusters of cases,2
-Senegal,342,7,3,1,Clusters of cases,0
-Mauritius,324,0,9,0,Clusters of cases,5
-"Democratic Republicof the Congo",287,0,23,0,Clusters of cases,1
-Kenya,246,12,11,0,Clusters of cases,0
-Mali,190,19,13,0,Sporadic cases,0
-"United Republic ofTanzania",148,54,5,1,Sporadic cases,0
-Congo,143,26,6,1,Clusters of cases,0
-Rwanda,138,0,0,0,Sporadic cases,1
-Madagascar,117,0,0,0,Clusters of cases,1
-Ethiopia,96,4,3,0,Sporadic cases,0
-Gabon,95,0,1,0,Sporadic cases,1
-Togo,83,2,5,0,Sporadic cases,0
-Liberia,76,3,7,1,Sporadic cases,0
-Cabo Verde,55,0,1,0,Sporadic cases,1
-Uganda,55,0,0,0,Sporadic cases,2
-Zambia,52,4,2,0,Sporadic cases,0
-Equatorial Guinea,51,0,0,0,Sporadic cases,2
-Guinea-Bissau,50,4,0,0,Sporadic cases,0
-Benin,37,0,1,0,Sporadic cases,1
-Eritrea,35,0,0,0,Sporadic cases,2
-Chad,33,6,0,0,Sporadic cases,0
-Mozambique,31,2,0,0,Sporadic cases,0
-Sierra Leone,26,11,0,0,Sporadic cases,0
-Zimbabwe,24,1,3,0,Sporadic cases,0
-Angola,19,0,2,0,Sporadic cases,9
-Eswatini,19,3,1,0,Sporadic cases,0
-Malawi,17,1,2,0,Sporadic cases,0
-Namibia,16,0,0,0,Sporadic cases,12
-Botswana,15,0,1,0,Sporadic cases,1
-Central African,12,0,0,0,Sporadic cases,1
-Republic,,,,,,
-Seychelles,11,0,0,0,Sporadic cases,11
-Gambia,9,0,1,0,Sporadic cases,6
-Mauritania,7,0,1,0,Sporadic cases,7
-Burundi,5,0,0,0,Sporadic cases,5
-São Tomé and,4,0,0,0,Pending,11
-Príncipe,,,,,,
-South Sudan,4,0,0,0,Pending,6
-Territories**,,,,,,
-Réunion,402,8,0,0,Clusters of cases,0
-Mayotte,245,12,4,1,Clusters of cases,0
-Subtotal for all,,,,,,
-"",2 159495,85678,146075,6710,,
-Regions,,,,,,
-International,,,,,,
-conveyance (Diamond,712,0,13,0,Not Applicable††,33
-Princess),,,,,,
-Grand total,2 160207,85678,146088,6710,,
-"HO has developed interim guidance for laboratory diagnosis, advice on the use of masks during home care and",
-"n health care settings in the context of COVID-19 outbreak, clinical management, infection prevention and",
-"ontrol in health care settings,",risk communication an
-ommunity engagement and Global Surveillance for human infection with COVID-19.,
-HO has provided recommendations to reduce risk of transmission from animals to humans.
-"HO has activated the R&D blueprint to accelerate diagnostics, vaccines, and therapeutics."
-"penWHO is an interactive, web-based, knowledge-transfer platform offering online courses to improve the"
-esponse to health emergencies. COVID-19 courses can be found here and courses in additional national
-"anguages here.  Specifically, WHO has developed online courses on the following topics:"
