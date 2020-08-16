@@ -1,0 +1,151 @@
+Province/,,,In last 24 hours,,Cumulative
+"",Population,,,,
+Region/,,,,,
+"","(10,000s)",Confirmed,Suspected,,Confirmed
+City,,,,Deaths,Deaths
+"",,cas es,cases,,cases
+Hubei,5917,126,43,29,67592 2931
+Guangdong,11346,1,0,0,1351 7
+Henan,9605,0,0,0,1272 22
+Zhejiang,5737,0,1,0,1215 1
+Hunan,6899,0,0,0,1018 4
+Anhui,6324,0,0,0,990 6
+Jiangxi,4648,0,0,0,935 1
+Shandong,10047,0,0,0,758 6
+Jiangsu,8051,0,0,0,631 0
+Chongqing,3102,0,2,0,576 6
+Sichuan,8341,0,2,0,539 3
+Heilongjiang,3773,0,0,0,481 13
+Beijing,2154,4,3,0,422 8
+Shanghai,2424,1,22,0,339 3
+Hebei,7556,0,0,0,318 6
+Fujian,3941,0,0,0,296 1
+Guangxi,4926,0,0,0,252 2
+Shaanxi,3864,0,0,0,245 1
+Yunnan,4830,0,2,0,174 2
+Hainan,934,0,0,1,168 6
+Guizhou,3600,0,2,0,146 2
+Tianjin,1560,0,9,0,136 3
+Shanxi,3718,0,0,0,133 0
+Liaoning,4359,0,13,0,125 1
+Hong Kong SAR,745,0,0,0,104 2
+Gansu,2637,11,0,0,102 2
+Jilin,2704,0,3,0,93 1
+Xinjiang,2487,0,0,0,76 3
+Inner Mongolia,2534,0,0,0,75 1
+Ningxia,688,0,0,0,75 0
+Taipei and environs,2359,3,0,0,45 1
+Qinghai,603,0,0,0,18 0
+Macao SAR,66,0,0,0,10 0
+Xizang,344,0,0,0,1 0
+Total,142823,146,102,30,80711 3045
+"",Total,,Total,,Total,,Days since
+Reporting Country/,‡,,,Total,,Transmission,
+Territory/Area  †,confirmed,,confirmed,deaths,new,classification§,last reported
+"",cases,,new cases,,deaths,,case
+Western Pacific Region,,,,,,,
+Republic of Korea,6284,,518,42,7,Local transmission,0
+Japan,349,,32,6,0,Local transmission,0
+Singapore,117,,7,0,0,Local transmission,0
+Australia,57,,0,2,0,Local transmission,1
+Malaysia,55,,5,0,0,Local transmission,0
+Viet Nam,16,,0,0,0,Local transmission,22
+Philippines,5,,2,1,0,Local transmission,0
+New Zealand,4,,2,0,0,Local transmission,0
+Cambodia,1,,0,0,0,Imported cases only,38
+European Region,,,,,,,
+Italy,3858,,769,148,41,Local transmission,0
+Germany,534,,272,0,0,Local transmission,0
+France,420,,138,6,2,Local transmission,0
+Spain,257,,59,3,2,Local transmission,0
+The United Kingdom,118,,29,0,0,Local transmission,0
+Norway,86,,30,0,0,Local transmission,0
+Switzerland,86,,30,1,1,Local transmission,0
+Netherlands,82,,44,0,0,Local transmission,0
+Sweden,61,,26,0,0,Local transmission,0
+Belgium,50,,27,0,0,Local transmission,1
+Austria,47,,10,0,0,Imported cases only,0
+Greece,32,,23,0,0,Local transmission,1
+Iceland,26,,0,0,0,Imported cases only,1
+San Marino,21,,5,0,0,Local transmission,0
+Denmark,18,,8,0,0,Local transmission,1
+Israel,15,,0,0,0,Local transmission,1
+Ireland,14,,12,0,0,Local transmission,0
+Czechia,12,,7,0,0,Local transmission,0
+Finland,12,,5,0,0,Local transmission,0
+Croatia,10,,1,0,0,Local transmission,0
+Georgia,9,,6,0,0,Imported cases only,0
+Portugal,9,,0,0,0,Local transmission,1
+Belarus,6,,0,0,0,Local transmission,1
+Romania,6,,2,0,0,Local transmission,0
+Slovenia,6,,5,0,0,Local transmission,0
+Russian Federation,4,,1,0,0,Imported cases only,0
+Azerbaijan,3,,0,0,0,Imported cases only,5
+Estonia,3,,1,0,0,Imported cases only,0
+Bosnia and,,,,,,Local transmission,
+"",2,,0,0,0,,1
+Herzegovina,,,,,,,
+Hungary,2,,0,0,0,Imported cases only,1
+Andorra,1,,0,0,0,Imported cases only,3
+Armenia,1,,0,0,0,Imported cases only,4
+Latvia,1,,0,0,0,Imported cases only,3
+Liechtenstein,1,,0,0,0,Imported cases only,0
+Lithuania,1,,0,0,0,Imported cases only,7
+Luxembourg,1,,0,0,0,Imported cases only,4
+Monaco,1,0,0,0,Under investigation,5
+North Macedonia,1,0,0,0,Imported cases only,8
+Poland,1,0,0,0,Imported cases only,2
+Serbia,1,1,0,0,Under investigation,0
+Ukraine,1,0,0,0,Imported cases only,2
+"",erritories**,,,,,
+Gibraltar,1,0,0,0,Under investigation,2
+"",outh-East Asia Region,,,,,
+Thailand,47,0,1,0,Local transmission,1
+India,30,1,0,0,Local transmission,0
+Indonesia,2,0,0,0,Local transmission,4
+Bhutan,1,1,0,0,Imported cases only,0
+Nepal,1,0,0,0,Imported cases only,42
+Sri Lanka,1,0,0,0,Imported cases only,39
+"",astern Mediterranean Region,,,,,
+"Iran (IslamicRepublic of)",3513,591,107,15,Local transmission,0
+Kuwait,58,0,0,0,Imported cases only,1
+Bahrain,49,0,0,0,Imported cases only,3
+Iraq,36,0,2,0,Imported cases only,1
+"United ArabEmirates",27,0,0,0,Local transmission,2
+Lebanon,16,3,0,0,Local transmission,0
+Oman,16,1,0,0,Imported cases only,0
+Qatar,8,0,0,0,Imported cases only,2
+Saudi Arabia,8,6,0,0,Imported cases only,0
+Pakistan,5,0,0,0,Imported cases only,3
+Egypt,3,1,0,0,Imported cases only,0
+Morocco,2,0,0,0,Imported cases only,1
+Afghanistan,1,0,0,0,Imported cases only,11
+Jordan,1,0,0,0,Imported cases only,3
+Tunisia,1,0,0,0,Imported cases only,3
+"",erritories**,,,,,
+"OccupiedPalestinian Territory",7,0,0,0,Imported cases only,1
+"",egion of the Americas,,,,,
+"United States ofAmerica",148,19,10,1,Local transmission,0
+Canada,45,15,0,0,Local transmission,0
+Ecuador,13,6,0,0,Local transmission,0
+Brazil,7,4,0,0,Imported cases only,0
+Mexico,5,0,0,0,Imported cases only,4
+Argentina,1,0,0,0,Imported cases only,2
+Chile,1,0,0,0,Imported cases only,2
+Dominican Republic,1,0,0,0,Imported cases only,4
+"",erritories**,,,,,
+Saint Martin,2,0,0,0,Under investigation,3
+Saint Barthélemy,1,0,0,0,Under investigation,3
+"",frican Region,,,,,
+Algeria,12,0,0,0,Local transmission,1
+Senegal,4,0,0,0,Imported cases only,1
+Cameroon,1,1,0,0,Imported cases only,0
+Nigeria,1,0,0,0,Imported cases only,7
+South Africa,1,1,0,0,Imported cases only,0
+Subtotal for all,,,,,,
+"",16785,2727,329,69,,
+regions,,,,,,
+International,,,,,,
+conveyance,696,0,6,0,Local transmission,0
+(Diamond Princess),,,,,,
+Grand total,17481,2727,335,69,,

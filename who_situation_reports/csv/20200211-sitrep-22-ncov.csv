@@ -1,0 +1,76 @@
+Province/Region/City,Confirmed Cases
+Hubei,31728
+Guangdong,1177
+Zhejiang,1117
+Henan,1105
+Hunan,912
+Anhui,860
+Jiangxi,804
+Jiangsu,515
+Chongqing,486
+Shandong,486
+Sichuan,417
+Heilongjiang,360
+Beijing,342
+Shanghai,302
+Fujian,267
+Hebei,239
+Shaanxi,219
+Guangxi,215
+Yunnan,149
+Hainan,142
+Shanxi,122
+Guizhou,118
+Liaoning,108
+Tianjin,96
+Gansu,86
+Jilin,81
+Inner Mongolia,58
+Xinjiang,55
+Ningxia,53
+Hong Kong SAR,42
+Qinghai,18
+Taipei and environs,18
+Macao SAR,10
+Xizang,1
+Total,42 708
+"",,,Total Total cases with,T otal cases with,
+"",,,cases with possible or,site of,
+"",,Confirmed*,travel confirmed,transmission,Total deaths
+WHO Region,Country/Territory/Area,,,,
+"",,cases (new),history to transmission,under,(new)
+"",,,China outside of China†,investigation,
+"",,,(new) (new),(new),
+"",China‡,42 708 (2484),,,1017 (108)
+"",Singapore,45 (2),22 (1) 23†† (1),0 (0),0 (0)
+Western Pacific Region,,,,,
+0 (0),Republic of Korea,28 (1),13 (0) 12§§ (0),3 (1),
+"",Japan,26 (0),22 (0) 4 (0),0 (0),0 (0)
+"",Malaysia,18 (0),15 (0) 3‡‡ (0),0 (0),0 (0)
+"",Australia,15 (0),15 (0) 0 (0),0 (0),0 (0)
+"",,,,,
+"",Viet Nam,15 (1),8 (0) 6 (0),1 (1),0 (0)
+"",,,,,
+"",Philippines,3 (0),2 (0) 0 (0),1 (0),1 (0)
+"",Cambodia,1 (0),1 (0) 0 (0),0 (0),0 (0)
+"",Thailand,33 (1),23 (1) 6††† (0),4 (0),0 (0)
+"",India,3 (0),3 (0) 0 (0),0 (0),0 (0)
+South-East Asia Region,,,,,
+"",Nepal,1 (0),1 (0) 0 (0),0 (0),0 (0)
+"",Sri Lanka,1 (0),1 (0) 0 (0),0 (0),0 (0)
+"",United States of,,,,
+Region of the Americas America,,13 (1),11 (1) 2 (0),0 (0),0 (0)
+"",Canada,7 (0),6 (0) 0 (0),1 (0),0 (0)
+"",Germany,14 (0),2 (0) 12†† (0),0 (0),0 (0)
+"",France,11 (0),5 (0) 6 (0),0 (0),0 (0)
+"",The United Kingdom,8 (4),1 (0) 7*** (4),0 (0),0 (0)
+"",Italy,3 (0),3 (0) 0 (0),0 (0),0 (0)
+European Region,Russian Federation,2 (0),2 (0) 0 (0),0 (0),0 (0)
+"",Spain,2 (0),0 (0) 2§ (0),0 (0),0 (0)
+"",Belgium,1 (0),1 (0) 0 (0),0 (0),0 (0)
+"",Finland,1 (0),1 (0) 0 (0),0 (0),0 (0)
+"",Sweden,1 (0),1 (0) 0 (0),0 (0),0 (0)
+Eastern Mediterranean,,,,,
+Region,United Arab Emirates,8 (1),6 (0) 1 (0),1 (1),0 (0)
+International Other,,,,,
+"",conveyance (Japan),135** (65),0 (0) 0 (0),135 (65),0 (0)
