@@ -79,7 +79,7 @@ class EnKalmanFilter:
 
         # Pxy Pyy
         P_xy = (dX.T@dY) / (N-1) # E (HE)^T= P_f Hに対応 (P_f = E E^T)
-        P_yy = (dY.T@dY) / (N-1)  # (HE)^T HE = HP_fHに対応
+        P_yy = (dY.T@dY) / (N-1) # (HE)^T HE = HP_fHに対応
         
         # Kalman gain 
         K = P_xy@np.linalg.inv(P_yy + self.R)
