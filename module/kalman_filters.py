@@ -10,14 +10,16 @@ M: callable(x, dt)
 
 H: callable(x)
   観測関数
-Q: ndarray(dim, dim)
-  モデルの誤差共分散行列, 
-R: ndarray(dim, dim)
+  
+Q: ndarray(dim_x, dim_x)
+  モデルの誤差共分散行列
+  
+R: ndarray(dim_y, dim_y)
   観測の誤差共分散行列
 
 N: アンサンブルメンバーの数
 
-x: ndarray(dim)
+x: ndarray(dim_x)
 
 """
 class EnKalmanFilter:
